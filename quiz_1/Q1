@@ -1,0 +1,8 @@
+### Q1: Write 5 diff between intepreted and compiled language
+
+Answer:
+1. Compiled into machine code(jar) to process, while Interpreted languages run through a program line by line and execute each command.
+2. In Compiled language, compilation errors prevent the code from compiling. On the other hand, Interpreted languages, all the debugging occurs at run-time.
+3. Compiled language have 2 steps to get from source code to execution, where Interpreted languages have 1 step to get from source code to execution
+4. Compiled language are slow to develop, fast to execute. Interpreted languages are fast to develop and slow to execute
+5. Interpreted languages portable, where compiled languages are not portable
