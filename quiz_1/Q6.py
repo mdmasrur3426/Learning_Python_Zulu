@@ -6,5 +6,3 @@ myList = [0, 1, 2]
 print(myList[3])
 
 ##UNABLE TO GET 3 errors from same code
-
-
